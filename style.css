@@ -9,7 +9,11 @@ background-color: plum;
 }
 
 h2{
-    padding: 6%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.info{
+text-align: center; 
 }
 
 .description{
@@ -50,7 +54,7 @@ p{
 }
 
 img{
-    
+
     width: 50%;
     margin-left: 25%;
     margin-right: 25%;
