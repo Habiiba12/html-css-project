@@ -4,9 +4,23 @@ h1{
     text-align: center;
 }
 
+
 body{
+
 background-color: plum; 
+
 }
+
+articles{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+article {
+    
+}
+
 
 h2{
     padding-left: 6%;
@@ -23,6 +37,7 @@ text-align: center;
     margin-right: 50%
     border calor red;
 
+
 }
 
 .text blue{
@@ -32,6 +47,9 @@ text-align: center;
     margin-right: 25%; 
 
 }
+
+
+
 
 .nav-item{ 
 text-anchor: center;
@@ -49,13 +67,24 @@ p{
  font-size: 10px;
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  text-align: center;
-  width: 100%;    
+    
 
 }
 
 img{
 
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+    width: 20%;
+    margin-left: 50;
+    margin-right: 50;
+    marker-mid: 10%;
 }
+
+
+
+
+
+
+
+
+
+
