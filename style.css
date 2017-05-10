@@ -11,7 +11,7 @@ background-color: plum;
 
 }
 
-articles{
+.articles{
     display: flex;
     flex-wrap: wrap;
 
