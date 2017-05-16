@@ -82,10 +82,11 @@ img {
     }
 }
 
-article{
-    width: 50%;
+.container article {
+    flex: 1;
     border: solid;
-    border-color: pink;
+    border-color: black;
+    border-width: 1px;
     padding: 10px;
     margin: 1px;
 }
