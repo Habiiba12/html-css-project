@@ -5,10 +5,8 @@ h1{
 }
 
 
-body{
-
-background-color: plum; 
-
+body {
+   background-color: plum;  
 }
 
 .articles{
@@ -20,7 +18,7 @@ background-color: plum;
 
 
 a { 
- font-size: 50px;
+ font-size: 20px;
 }
 
 .text {
@@ -53,6 +51,15 @@ margin-left: 1%;
 .navbar-nav{
     text-align: center;
 
+} 
+.navbar-nav-1{
+    display: flex;
+    background: color blue;
+
+
+}
+.container-artcle {
+    width: 100%;
 }
 
 img {
@@ -65,7 +72,7 @@ img {
 
 
 
-.container {
+.container{
     display: flex;
     flex-wrap: wrap;
 
