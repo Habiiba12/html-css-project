@@ -15,9 +15,15 @@ background-color: plum;
     display: flex;
     flex-wrap: wrap;
 
+
 }
 
-a{
+
+
+
+
+
+a { 
  font-size: 50px;
 }
 
@@ -25,19 +31,18 @@ a{
 
     font-family: Tahoma,Verdana,Segoe,sans-serif;
 }
+ 
 
-.blue{
-    width: 
-}
 
 
 
 
 article{
-    width: 25%;
+    width: 50%;
     border: solid;
-    padding: 20px;
-    margin: 20px;
+    border-color: pink;
+    padding: 10px;
+    margin: 1px;
 }
 
 
@@ -59,13 +64,6 @@ text-align: center;
 
 }
 
- 
-
-
-
-
-
-
 .nav-item{ 
 text-anchor: center;
 border: color red;
@@ -77,27 +75,38 @@ margin-left: 1%;
 
 }
 
-
 p{ 
  font-size: 10px;
  text-align: center;
     
-
-}
+    }
 
 img{
 
-    width: 20%;
-    margin-left: 50;
-    margin-right: 50;
-    marker-mid: 10%;
+    width: 25%;
+    margin-left: 2%;
+    margin-right: 3%;
+    marker-mid: 3%;
 }
 
 
 
+.containe{
+    display: flex;
+    flex-wrap: wrap;
 
+}
 
-
+.box{
+    width: 100%;
+}
+@media screen and (mid-width:800px) {
+    .container{
+        width: 800px;
+        margin-left: 80%;
+        margin-right: 80%;
+    }
+}
 
 
 
