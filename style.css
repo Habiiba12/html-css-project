@@ -12,13 +12,13 @@ body {
 .articles{
     display: flex;
     flex-wrap: wrap;
-
-
 }
-
-
 a { 
  font-size: 20px;
+}
+
+footer{
+    text-align: center;
 }
 
 .text {
