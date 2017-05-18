@@ -31,7 +31,7 @@ h2{
     padding-right: 6%;
 }
 .info{
-text-align: center; 
+    text-align: center; 
 }
 
 .description{
@@ -40,16 +40,18 @@ text-align: center;
     width: 80%;
     margin-right: 50%;
     border-color: red;
+
 }
 
 .nav-item{ 
 text-anchor: center;
 border: color red;
 margin-left: 1%;
-
 }
 .navbar-nav{
     text-align: center;
+    margin-bottom:  25px;
+    
 
 } 
 .navbar-nav-1{
